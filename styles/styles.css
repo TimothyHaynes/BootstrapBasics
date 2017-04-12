@@ -1,0 +1,44 @@
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.section {
+  width: 100%;
+  height: 100%;
+  padding-top: 150px;
+  text-align: center;
+}
+
+.intro-section {
+
+}
+
+.about-section {
+
+}
+
+.services-section {
+
+}
+
+.contact-section {
+
+}
+
+@media( min-width: 767px ){
+  .navbar{
+    padding: 20px 0;
+    transform: background .5s ease-in-out, padding .5s ease-in-out;
+    -moz-transform: background .5s ease-in-out, padding .5s ease-in-out;
+    -webkit-transform: background .5s ease-in-out, padding .5s ease-in-out;
+  }
+  .top-nav-collapse {
+    padding: 0;
+  }
+}
